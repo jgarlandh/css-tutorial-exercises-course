@@ -1,5 +1,5 @@
 ul li {
-	background: blue;
+	background: blue !important;
 }
 
 li + #thirditem {

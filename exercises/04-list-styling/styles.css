@@ -12,3 +12,19 @@ body {
 	padding: 120px;
 	width: 300px;
 }
+
+ol.cocacola {
+	list-style-type: lower-alpha;
+}
+
+ol.pepsi {
+	list-style-type: square;
+}
+
+ol.healthy {
+	list-style-type: armenian;
+}
+
+ol.dev-drinks {
+	list-style-type: none;
+}
